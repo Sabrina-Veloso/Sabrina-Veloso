@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Sabrina-Veloso">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabrina-Veloso&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina-Veloso&layout=compact&langs_count=7&theme=cobalt"/>
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=Sabrina-Veloso&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img align="center"  height="154m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina-Veloso&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
   <div style="display: inline_block"><br>
